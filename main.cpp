@@ -9,6 +9,7 @@ struct Item
 {
     int id;
     string name, category, location, description;
+    
 };
 
 Item lost[100], found[100];
